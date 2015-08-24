@@ -29,7 +29,7 @@ import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 
 /**
- * EGL 14 Config Factory class
+ * GLSurfaceView using EGl14 instead of EGL10
  * 
  * @author Perraco Labs (August-2015)
  * @repository https://github.com/perracolabs/GLSurfaceViewEGL14

@@ -1,7 +1,7 @@
 package com.perracolabs.egl14;
 
 /**
- * Adapted render interface for EGL14, derived from the IRenderer interface in the original GLSurfaceView
+ * Render interface adapter for GLSurfaceViewEGL14. Derived from the IRenderer interface in the original GLSurfaceView
  *
  * @author Perraco Labs (August-2015)
  * @repository https://github.com/perracolabs/GLSurfaceViewEGL14
